@@ -1,5 +1,6 @@
 ### Olá! Eu sou Jackson Guedes 
 
+- ✞  in omnibus glorifecetur Deus
 - ⚡ Graduando em Engenharia Elétrica pela Universidade Federal de Campina Grande
 - ⚡ Especializando-se nas áreas de Eletrônica e Controle e Automação
 - 🌱 Estudando Python, Machine Learning e Ciência de Dados
