@@ -3,6 +3,7 @@
 - ⚡ Graduando em Engenharia Elétrica pela Universidade Federal de Campina Grande
 - ⚡ Especializando-se nas áreas de Eletrônica e Controle e Automação
 - 🌱 Estudando Python, Machine Learning e Ciência de Dados
+- 📚 "A leitura engrandece a alma" Voltaire
 - 📫 Contate-me no email: jacksonguedes4@gmail.com
 
 <div>
